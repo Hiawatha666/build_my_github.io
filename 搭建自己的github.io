@@ -7,3 +7,6 @@ https://help.github.com/en/categories/working-with-github-pages
 
 2019.10.12了解hexo与jekyll的差异
 https://blog.csdn.net/u011475210/article/details/79023429
+
+2018.10.14
+搭建hexo的环境完成，开始初始配置，了解next主题，并创建文档
